@@ -1,0 +1,25 @@
+.main {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  height: 500px;
+}
+.profile-img {
+  width: 60%;
+  height: 80%;
+  border-radius: 20px;
+}
+.profile-img img {
+  height: 100%;
+  width: 60%;
+}
+.profile-info {
+  padding: 100px;
+  font-size: xx-large;
+  width: 40%;
+  height: 80%;
+}
+.table td {
+  border: solid 1px black;
+}
